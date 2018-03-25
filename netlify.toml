@@ -6,5 +6,5 @@
   incoming-hooks = ["Contentful"]
 
 [template.environment]
-  CONTENTFUL_CDA_TOKEN = "w7sdyslol3fu"
+  CONTENTFUL_CDA_TOKEN = "baa905fc9cbfab17b1bc0b556a7e17a3e783a2068c9fd6ccf74ba09331357182"
   CONTENTFUL_SPACE = "w7sdyslol3fu"
