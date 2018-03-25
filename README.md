@@ -45,3 +45,5 @@ After running metalsmith you will have several files into the ```build``` dir. E
   * `article/*.html`, shows one entry resulting of rendering all articles
 
 For more info on the capabalities of the plugin visit [its repo](https://github.com/contentful/contentful-metalsmith).
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://deploy-preview-374--app.netlify.com/start/deploy?repository=https://github.com/bzerangue/contentful-metalsmith-example)
